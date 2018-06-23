@@ -11,7 +11,6 @@ import android.widget.Toast;
 public class MainActivity extends Activity implements View.OnClickListener{
 	
     EditText vTxtA, vTxtB, vTxtC;
-
     protected float yTxtA, yTxtB, yTxtC;
 
     @Override
